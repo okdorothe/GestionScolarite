@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="ojdbc7_g.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Do Ro The/Downloads/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Do Ro The/Downloads/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Do Ro The/Downloads/pdfbox-app-3.0.0-alpha3.jar"/>
+	<classpathentry kind="lib" path="Image"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
